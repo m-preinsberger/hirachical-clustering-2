@@ -23,9 +23,9 @@ This README is a bit short but the code is well comented so no need for double e
 To run this notebook, ensure all dependencies are installed and execute the cells step-by-step to visualize the color reduction process.
 
 ## Example Images
-![Example of the hierachichal clustering](image(1).png)
-![Example of the hierachichal clustering](image(2).png)
-![Example of the hierachichal clustering](image(3).png)
-![Example of the hierachichal clustering](image(4).png)
-![Example of the hierachichal clustering](image(5).png)
-![Example of the hierachichal clustering](image(6).png)
+![Example of the hierachichal clustering](image (1).png)
+![Example of the hierachichal clustering](image (2).png)
+![Example of the hierachichal clustering](image (3).png)
+![Example of the hierachichal clustering](image (4).png)
+![Example of the hierachichal clustering](image (5).png)
+![Example of the hierachichal clustering](image (6).png)
